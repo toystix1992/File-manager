@@ -1,0 +1,12 @@
+{
+  "name": "file_manager",
+  "version": "1.0.0",
+  "description": "cla 'file-manager'",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "type": "module",
+  "author": "Anton Parfionov toystix1992",
+  "license": "ISC"
+}
